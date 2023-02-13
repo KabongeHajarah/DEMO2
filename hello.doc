@@ -6,7 +6,7 @@
     <span style="border: solid goldenrod 2px;"> I am learning JavaScript</span>
     <p> Hello there hi!</p>
 </P>
-<!-- An empty element does not have a closing tag -->
+<!-- An empty element does not have a closing tag ,-->
 </body>
 </html>
 
