@@ -1,0 +1,28 @@
+</head>
+<body>
+    <p style = "color:maroon; border: solid black 2px;">  My name is Bella </p>
+    <P  style="border: dotted yellowgreen 2px;">  I study at AkiraChix
+    
+    <span style="border: solid goldenrod 2px;"> I am learning JavaScript</span>
+    <p> Hello there hi!</p>
+</P>
+<!-- An empty element does not have a closing tag and also non  -->
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
