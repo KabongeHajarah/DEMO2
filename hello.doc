@@ -5,9 +5,10 @@
     
     <span style="border: solid goldenrod 2px;"> I am learning JavaScript</span>
     <p> Hello there hi!</p>
-</P>
+
 <!-- An empty element does not have a closing tag and also non 
-so what should be done -->
+so what should be done-->
+
 </body>
 </html>
 
@@ -19,6 +20,7 @@ so what should be done -->
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -27,3 +29,5 @@ so what should be done -->
 
 
 
+=======
+>>>>>>> master
